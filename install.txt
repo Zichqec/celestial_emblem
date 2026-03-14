@@ -1,4 +1,4 @@
 charset,UTF-8
 type,balloon
-name,Simplicity Balloon
-directory,simplicity_balloon_zi
+name,Celestial Emblem
+directory,celestial_emblem_zi
