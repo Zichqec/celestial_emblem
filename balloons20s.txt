@@ -1,0 +1,3 @@
+marker.filename,marker_star_moon
+sstpmarker.filename,sstp_star_moon
+onlinemarker.filename,online_star_moon
